@@ -20,7 +20,7 @@ data set:
 
 
 
-public class Insertion_Sort {
+ public class Selection_Sort {
 
     public  static void printarray(int[] a)//since static is used no need for object creation
     {
